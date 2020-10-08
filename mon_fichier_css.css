@@ -1,22 +1,37 @@
 
     html {
-      background-color: green;
+      background-color: rgba(37, 240, 255, 0.336);
       font-size: 20px;
-    }
-    
-    ul {
-      background: red;
-      padding: 10px;
-      border: 1px solid black;
-    
-    }
-    
-    li {
-      margin-left: 20px;
     }
 
     h1
     {
-      color: red;
-      border:5px solid purple;
+      color: rgb(0, 0, 0);
+      border:5px solid rgba(128, 0, 0, 0.705);
+    }
+    table {
+      width:100%;
+    }
+    td {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+    th {
+      background-color: black;
+      color: white;
+    }
+    th, td {
+      padding: 15px;
+      text-align: left;
+    }
+    .time{
+      border: 0px;
+      vertical-align: top;
+      position: relative;
+      top: 13px;
+      font-weight: lighter;
+      text-align: right;
+    }
+    .invi{
+      background-color: rgba(0, 0, 0, 0);
     }
