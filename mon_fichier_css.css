@@ -1,7 +1,7 @@
 
     html {
       background-color: rgba(37, 240, 255, 0.336);
-      font-size: 20px;
+      font-size: 25px;
     }
 
     h1
@@ -23,6 +23,7 @@
     th, td {
       padding: 15px;
       text-align: left;
+      font: italic;
     }
     .time{
       border: 0px;
@@ -34,4 +35,36 @@
     }
     .invi{
       background-color: rgba(0, 0, 0, 0);
+    }
+    .anglais{
+      background-color: rgb(255, 251, 0);
+    }
+
+    .cyb{
+      background-color: rgb(0, 195, 255);
+    }
+
+    .dev{
+      background-color: rgb(0, 150, 7);
+    }
+    .g{
+      background-color: rgb(150, 0, 150);
+    }
+    .maths{
+      background-color: rgb(240, 171, 240);
+    }
+    .ds{
+      background-color: rgb(221, 0, 0);
+    }
+    .certif{
+      background-color: rgb(146, 255, 124);
+    }
+    .res{
+      background-color: rgb(241, 236, 166)
+    }
+    .atelier{
+      background-color: rgb(28, 96, 173)
+    }
+    .eco{
+      background-color: rgb(255, 255, 255)
     }
