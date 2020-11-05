@@ -27,9 +27,9 @@
     }
     .time{
       border: 0px;
-      vertical-align: top;
+      vertical-align: bottom;
       position: relative;
-      top: 13px;
+      bottom: 30px;
       font-weight: lighter;
       text-align: right;
       color: white;
@@ -64,7 +64,7 @@
       background-color: rgb(241, 236, 166)
     }
     .atelier{
-      background-color: rgb(28, 96, 173)
+      background-color: rgba(255, 126, 5, 0.836)
     }
     .eco{
       background-color: rgb(255, 255, 255)
