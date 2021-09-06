@@ -3,9 +3,9 @@
       background-color: rgb(255, 255, 255); 
       background-image: url("ndlp.png");
       background-repeat: no-repeat;
-      background-attachment: fixed ;
+      /* background-attachment: fixed ; */
       background-position: center bottom;
-      background-size: 100% ;
+      background-size: cover ;
       font-size: 30px;
     }
 
