@@ -2,6 +2,7 @@
     html {
       background-color: rgb(255, 255, 255); 
       background-image: url("ndlp.png");
+      background-repeat: no-repeat;
       background-size: cover;
       font-size: 30px;
     }
