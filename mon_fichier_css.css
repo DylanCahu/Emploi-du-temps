@@ -1,0 +1,184 @@
+
+    html {
+      background-color: rgb(255, 255, 255); 
+      background-image: url("ndlp.png");
+      background-repeat: no-repeat;
+      background-attachment: scroll ; 
+      background-position: left center ;
+      background-size: cover;
+      font-size: 30px;
+    }
+    
+    h1
+    {
+      color: rgb(255, 255, 255);
+      /* border:5px solid rgba(128, 0, 0, 0.705); */
+    }
+    table {
+      width:100%;
+    }
+    td {
+      border: 1px solid rgb(255, 255, 255);
+      border-collapse: collapse;
+    }
+    th {
+      background-color: rgb(0, 0, 0, 0.7);
+      color: white;
+    }
+    th, td {
+      padding: 15px;
+      text-align: left;
+      font: italic;
+    }
+    .time{
+      border: 0px;
+      vertical-align: bottom;
+      position: relative;
+      bottom: 30px;
+      font-weight: lighter;
+      text-align: right;
+      color: white;
+    }
+    .invi{
+      background-color: rgba(255, 255, 255, 0);
+    }
+    .anglais{
+      background-color: rgba(255, 251, 0, 0.7);
+    }
+    .cyb{
+      background-color: rgb(0, 195, 255, 0.7);
+    }
+    .dev{
+      background-color: rgb(0, 150, 7, 0.7);
+    }
+    .g{
+      background-color: rgb(150, 0, 150, 0.7);
+    }
+    .maths{
+      background-color: rgb(240, 171, 240, 0.7);
+    }
+    .ds{
+      background-color: rgb(221, 0, 0, 0.7);
+    }
+    .certif{
+      background-color: rgb(146, 255, 124, 0.7);
+    }
+    .res{
+      background-color: rgb(241, 236, 166, 0.7)
+    }
+    .atelier{
+      background-color: rgba(238, 135, 0, 0.7)
+    }
+    .eco{
+      background-color: rgb(255, 255, 255, 0.7)
+    }
+
+/*
+    @keyframes animate {
+      0%{
+          transform: translateY(0) rotate(0deg);
+          opacity: 1;
+          border-radius: 0;
+      }
+      100%{
+          transform: translateY(-1000px) rotate(720deg);
+          opacity: 0;
+          border-radius: 50%;
+      }
+    }
+    
+    .background {
+      position: fixed;
+      width: 100vw;
+      height: 100vh;
+      top: 0;
+      left: 0;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    .background li {
+      position: absolute;
+      display: block;
+      list-style: none;
+      width: 20px;
+      height: 20px;
+      animation: animate 47s linear infinite;
+    }
+    
+    
+    
+    
+    .background li:nth-child(0) {
+      background: rgba(86, 16, 133, 0.768);
+      left: 49%;
+      width: 124px;
+      height: 124px;
+      bottom: -124px;
+      animation-delay: 1s;
+    }
+    .background li:nth-child(1) {
+      background: rgba(8, 49, 231, 0.623);
+      left: 30%;
+      width: 253px;
+      height: 253px;
+      bottom: -253px;
+      animation-delay: 3s;
+    }
+    .background li:nth-child(2) {
+      background: rgba(86, 16, 133, 0.768);
+      left: 4%;
+      width: 329px;
+      height: 329px;
+      bottom: -329px;
+      animation-delay: 2s;
+    }
+    .background li:nth-child(3) {
+      background: rgba(8, 49, 231, 0.623);
+      left: 84%;
+      width: 492px;
+      height: 492px;
+      bottom: -492px;
+      animation-delay: 4s;
+    }
+    .background li:nth-child(4) {
+      background: rgba(86, 16, 133, 0.768);
+      left: 74%;
+      width: 43px;
+      height: 43px;
+      bottom: -43px;
+      animation-delay: 3s;
+    }
+    .background li:nth-child(5) {
+      background: rgba(86, 16, 133, 0.768);
+      left: 50%;
+      width: 171px;
+      height: 171px;
+      bottom: -171px;
+      animation-delay: 15s;
+    }
+    .background li:nth-child(6) {
+      background: rgba(86, 16, 133, 0.768);
+      left: 16%;
+      width: 324px;
+      height: 324px;
+      bottom: -324px;
+      animation-delay: 20s;
+    }
+    .background li:nth-child(7) {
+      background: rgba(86, 16, 133, 0.768);
+      left: 47%;
+      width: 441px;
+      height: 441px;
+      bottom: -441px;
+      animation-delay: 24s;
+    }
+    .background li:nth-child(8) {
+      background: rgba(86, 16, 133, 0.768);
+      left: 3%;
+      width: 373px;
+      height: 373px;
+      bottom: -373px;
+      animation-delay: 28s;
+    } */
